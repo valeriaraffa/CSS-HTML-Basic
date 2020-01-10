@@ -1,0 +1,14 @@
+.main-img{
+    border-radius: 50%;
+    border: solid 4px black;
+}
+body{
+    font: arial;
+}
+h1{
+    background-color: #B2C9DA;
+    padding: 5px;
+}
+.second-title{
+    text-transform: uppercase;
+}
